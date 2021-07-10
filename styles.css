@@ -1,0 +1,46 @@
+.form{
+  text-align: center;
+  padding: 2rem;
+}
+
+.headers{
+  text-align: center;
+}
+
+.afterheader{
+  color:green;
+}
+
+table{
+  width: 100%;
+  margin-top: 1rem;
+
+}
+
+td,th{
+
+}
+
+tr:nth-child(odd){
+  background-color: #f2f2f2;
+  padding : 15px;
+
+
+}
+
+
+.btn{
+  margin-top: 1rem;
+  border-radius: 10px;
+  width: 20%;
+
+}
+
+.weird{
+  margin-left: 2rem;
+  padding:2rem;
+}
+
+.expense{
+  width:25%
+}
